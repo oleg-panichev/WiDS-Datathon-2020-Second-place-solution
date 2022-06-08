@@ -25,5 +25,5 @@ nohup python -u ensemble.py > ensemble.log &
 You may find the code for each model within ensemble along with experiments log in the corresponding directories within \__kinoa\__ directory.
 
 ## Authors
-- Iryna Ivanenko ([irinaai@protonmail.com](mailto:irinaai@protonmail.com))
-- Oleg Panichev ([olegxpanichev@gmail.com](mailto:olegxpanichev@gmail.com))
+- Iryna Ivanenko
+- Oleg Panichev
