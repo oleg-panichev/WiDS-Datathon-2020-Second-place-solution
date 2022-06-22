@@ -1,4 +1,4 @@
-numpy==1.17.2
+numpy==1.22.0
 pandas==0.25.1
 mlxtend==0.17.1
 lightgbm==2.3.0
